@@ -79,4 +79,4 @@ This Express.js API project provides the following features:
 
 ## Contact
 
-If you have any questions about this application, please contact me at jadyngg19@gmail.com. You can find more of my work on https://github.com/Jadyngg19.
+If you have any questions about this application, please contact me at jadyngg19@gmail.com and you can find more of my work on https://github.com/Jadyngg19.
