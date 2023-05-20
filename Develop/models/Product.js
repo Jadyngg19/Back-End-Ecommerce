@@ -51,4 +51,10 @@ Product.init(
   }
 );
 
+Product.prototype.toJSON = function () {
+  const values = { ...this.get() };
+  delete values.product_tag;
+  return values;
+};
+
 module.exports = Product;

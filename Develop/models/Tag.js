@@ -23,6 +23,12 @@ Tag.init(
     underscored: true,
     modelName: 'tag',
   }
-);
+); 
+
+Tag.prototype.toJSON = function () {
+  const values = { ...this.get() };
+  delete values.product_tag;
+  return values;
+}; 
 
 module.exports = Tag;
