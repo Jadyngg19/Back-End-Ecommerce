@@ -62,7 +62,7 @@ npx sequelize-cli db:seed:all
 ![Viewing Categories](./Images/Viewing%20Categories.png)
 ![Viewing Tags](./Images/Viewing%20Tags.png)
 
-![Walkthrough Video](https://photos.app.goo.gl/vRjuCLDKe4QBCZEUA)
+[Walkthrough Video](https://photos.app.goo.gl/vRjuCLDKe4QBCZEUA)
 
 ## Features
 
