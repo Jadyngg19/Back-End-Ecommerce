@@ -58,10 +58,11 @@ npx sequelize-cli db:seed:all
 
 * For POST, PUT, and DELETE routes, use the corresponding routes in Insomnia Core to create, update, and delete data in the database.
 
-![]()
-![]()
-![]()
-![]()
+![Viewing Products](./Images/Viewing%20Products.png)
+![Viewing Categories](./Images/Viewing%20Categories.png)
+![Viewing Tags](./Images/Viewing%20Tags.png)
+
+![Walkthrough Video](https://photos.app.goo.gl/vRjuCLDKe4QBCZEUA)
 
 ## Features
 
