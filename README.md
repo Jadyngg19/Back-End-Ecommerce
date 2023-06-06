@@ -14,11 +14,12 @@ To install and run the Express.js API, follow these steps:
 4. Create an environment variable file (e.g., .env) in the root directory of the project.
 5. Open the environment variable file and add the following variables: 
 
-DB_NAME=your_database_name
-DB_USER=your_mysql_username
-DB_PASSWORD=your_mysql_password
+* DB_NAME=your_database_name
+* DB_USER=your_mysql_username
+* DB_PASSWORD=your_mysql_password
 
 Replace your_database_name, your_mysql_username, and your_mysql_password with your actual MySQL database credentials.
+
 6. Save the environment variable file (.env).
 
 ## Building Blocks
